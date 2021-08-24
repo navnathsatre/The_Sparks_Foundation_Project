@@ -5,8 +5,7 @@ All tasks performed by me in GRIP : Data Science And Business Analytics Internsh
 1. Predict the percentage of marks of an student based on the number of study hours.
 2. This is a simple linear regression task as it involves just 2 variables.
 3. Data can be found at : http://bit.ly/w-data
-4. You can use R, Python, SAS Enterprise Miner or any other tool.
-5. What will be predicted score if a student studies for 9.25 hrs/ day?
+4. What will be predicted score if a student studies for 9.25 hrs/ day?
 
 ## Task-2 : Prediction using Unsupervised ML
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
