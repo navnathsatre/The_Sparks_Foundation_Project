@@ -1,5 +1,14 @@
+<img align = right height = 120 width = 120 src = https://www.thesparksfoundationsingapore.org/images/logo_small.png>
+
 # The Sparks Foundation Tasks
-All tasks performed by me in GRIP : Data Science And Business Analytics Internship in **The Sparks Foundation**
+
+
+All tasks performed by me in GRIP : Data Science And Business Analytics Internship in [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)
+- **Internship Category** - Data Science and Business Analytics
+- **Internship Duration** - 1 Month ( June-2021 )
+- **Internship Type** - Work from Home
+
+In this internship, I have Completed all given tasks within the given time-frame.
 
 ## Task-1 : Prediction using Supervised ML 
 1. Predict the percentage of marks of an student based on the number of study hours.
